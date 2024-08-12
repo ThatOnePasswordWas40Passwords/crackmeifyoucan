@@ -113,8 +113,8 @@ the meantime. Keep an eye out on my [Github Organization](https://github.com/Tha
 and/or [Github account, bigpick](https://github.com/bigpick) for any
 future updates on those.
 
-**If anything I've mentioned soudns interesting to you, or you're
-interested in _me_, drop me an issue - I promise I'm friendly:)**
+**If anything I've mentioned sounds interesting to you, or you're
+interested in _me_, drop me an issue to chat - I promise I'm friendly:)**
 
 ---
 
