@@ -118,10 +118,7 @@ interested in _me_, drop me an issue - I promise I'm friendly:)**
 
 ---
 
-<p>
-    <img src="./imgs/2024_crack_distribution_pie.png">
-    <img src="./imgs/2024_point_distribution_pie.png">
-</p>
+![](./imgs/2024_crack_distribution_pie.png "Cracks" =40%x) ![](./imgs/2024_point_distribution_pie.png "Points" =40%x)
 
 &nbsp;
 
