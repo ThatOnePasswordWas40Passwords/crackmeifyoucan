@@ -36,7 +36,7 @@ Alternatively, they are also mirrored in this repo in [contest_hashes](./contest
 
 ## [Results](https://contest-2024.korelogic.com/stats.html)
 
-I[^1] took 1st in the street division this year finally! This was a goal of
+I [^1] took 1st in the street division this year finally! This was a goal of
 mine since the first time I competed (_which was, checks clock, **5 years ago**_
 ha ha). This year's contest was a brutal slog. I learned some new things,
 had another chance to learn how bad my work management capabilities are,
@@ -90,9 +90,12 @@ continued through 2022, 2023, finally culminating in 2024's performance.
 2024 I achieved my ultimate goal ending a 5 year journey. Below is a
 graph showing my placement over the years:
 
-[placement-and-score-over-time](./imgs/placement_and_score_over_time.png)
+![placement-and-score-over-time](./imgs/placement_and_score_over_time.png)
 
 > Includes scoring, though that isn't really useful.
+
+placement_and_score_over_time.png
+scoreboard.png
 
 All in all, its been a great journey. I've learned quite a bit about
 the process, tools, and ideas around cracking, and like to think I'd
@@ -113,6 +116,15 @@ If anything I've mentioned soudns interesting to you, or you're
 interested in _me_, drop me an issue - I promise I'm friendly:)
 
 ---
+
+![2024_crack_distribution_pie.png](./imgs/2024_crack_distribution_pie.png)
+
+> Cracks
+
+![2024_point_distribution_pie.png](./imgs/2024_point_distribution_pie.png)
+
+> Points
+
 
 ## Takeaways
 
