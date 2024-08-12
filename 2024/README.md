@@ -84,47 +84,46 @@ point the next year.
 [2021](https://contest-2021.korelogic.com/stats.html) rolls around and
 that year I managed to score 94,178 points over 27,557 total hashes.
 Most definitely better than 2020, good enough for 19/30. My goal of
-continually improving had been met, and I was even more  This story
-continued through 2022, 2023, finally culminating in 2024's performance.
+continually improving had been met, and I was even more excited by the
+competition.
 
-2024 I achieved my ultimate goal ending a 5 year journey. Below is a
+This story continued through 2022, 2023, finally culminating in 2024's performance.
+
+[2024](https://contest-2024.korelogic.com/stats.html) I achieved my ultimate goal ending a 5 year journey. Below is a
 graph showing my placement over the years:
 
 ![placement-and-score-over-time](./imgs/placement_and_score_over_time.png)
 
 > Includes scoring, though that isn't really useful.
 
-placement_and_score_over_time.png
-scoreboard.png
-
 All in all, its been a great journey. I've learned quite a bit about
 the process, tools, and ideas around cracking, and like to think I'd
-have a good chance at any real life situation now.
+have a good chance at most real life situations now.
 
 As for the upcoming year(s) - I'm not sure whats next. Maybe time to
 "go pro" (just need the bus carrying team hashcat, cynosure prime,
 hashmob, and john-users to get lost on the way to Defcon that year...).
 Maybe stay in street and make the new goal staying top as long as
-possible. Maybe its time to "make some friends" and focus less on
+possible. Maybe its time to make some friends and focus less on
 solo-ing the challenge and trying to form a team to help each other
-learn and grow. Either way - I already have some plans for practice in
+learn and grow.
+
+Either way - I already have some plans for practice in
 the meantime. Keep an eye out on my [Github Organization](https://github.com/ThatOnePasswordWas40Passwords)
 and/or [Github account, bigpick](https://github.com/bigpick) for any
 future updates on those.
 
-If anything I've mentioned soudns interesting to you, or you're
-interested in _me_, drop me an issue - I promise I'm friendly:)
+**If anything I've mentioned soudns interesting to you, or you're
+interested in _me_, drop me an issue - I promise I'm friendly:)**
 
 ---
 
-![2024_crack_distribution_pie.png](./imgs/2024_crack_distribution_pie.png)
+<p>
+    <img src="./imgs/2024_crack_distribution_pie.png">
+    <img src="./imgs/2024_point_distribution_pie.png">
+</p>
 
-> Cracks
-
-![2024_point_distribution_pie.png](./imgs/2024_point_distribution_pie.png)
-
-> Points
-
+&nbsp;
 
 ## Takeaways
 
