@@ -118,7 +118,12 @@ interested in _me_, drop me an issue - I promise I'm friendly:)**
 
 ---
 
-![distrib](./imgs/2024_crack_distribution_pie.png "Cracks" =40%x) ![points](./imgs/2024_point_distribution_pie.png "Points" =40%x)
+<p align="center">
+  <img alt="cracks" src="./imgs/2024_crack_distribution_pie.png" width="40%">
+&nbsp; &nbsp;
+  <img alt="points" src="./imgs/2024_point_distribution_pie.png" width="40%">
+</p>
+
 
 &nbsp;
 
