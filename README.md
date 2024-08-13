@@ -13,7 +13,19 @@ we'll take a look.
 
 Thanks!
 
----
+## Info
+
+This repository contains a year-named set of folders for writeups/resources/etc
+that reflect the experience of the competition for that respective year's 48 hour
+contest, only.
+
+To see a more thorough examaniation of a given year's hashes some time
+**after** the competition, visit [historical_analysis](./historical_analysis).
+That folder will serve as a place to continually iterate on a prior
+competition's challenges, ultimately trying to 100% any given hash
+with all prior knowledge taken into consideration.
+
+&nbsp;
 
 ## Team members
 
@@ -21,19 +33,27 @@ Thanks!
 
 * [zilla](https://github.com/bigpick)
 
+---
+
 ### 2023
 
 * [zilla](https://github.com/bigpick)
 * thon
 * datajerk
 
+---
+
 ### 2022
 
 * [zilla](https://github.com/bigpick)
 
+---
+
 ### 2021
 
 * [zilla](https://github.com/bigpick)
+
+---
 
 ### 2020
 
